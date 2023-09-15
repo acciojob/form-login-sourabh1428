@@ -1,1 +1,6 @@
 /*  your css code here. If applicable */
+const a=document.getElementByTag('INPUT');
+function getFormvalue()
+{
+	alert(a);
+}
